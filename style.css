@@ -7,6 +7,17 @@ body {
 
 }
 
+#menu {
+    display: inline;
+    
+    padding-left: 15px;
+
+}
+
+li a {
+	font-size: 40px;
+}
+
 #banner {
 	width: 50%;
 	border: 15px groove orange ;
