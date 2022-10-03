@@ -1,5 +1,8 @@
-body {
-	background: #FFFF00;
+
+.navegacao{
+	text-align: center;
+	color: maroon;
+	background-color: orange; 
 }
 
 #centro{
@@ -9,13 +12,14 @@ body {
 
 #menu {
     display: inline;
-    
     padding-left: 15px;
-
 }
 
 li a {
-	font-size: 40px;
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 #banner {
