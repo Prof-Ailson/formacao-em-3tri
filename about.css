@@ -1,0 +1,33 @@
+header {
+	background: #FFFFFF;
+}
+
+
+.logo {
+	width: 45%;
+
+}
+
+.caixa {
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 120px;
+	right: 0;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+nav li {
+	margin: 15px 15px 15px 15px;
+}
