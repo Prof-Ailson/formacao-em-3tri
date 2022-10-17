@@ -1,0 +1,39 @@
+header {
+	background: #FFFFFF;
+	padding: 1px 0;
+}
+
+.logo {
+	width: 45%;
+}
+
+.caixa {
+	position: relative;
+	width: 1100px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 200px;
+	right: 0;
+}
+
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.grandao {
+	font-size: 100px;
+	text-align: center;
+}

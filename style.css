@@ -1,27 +1,4 @@
 
-.navegacao{
-	text-align: center;
-	color: maroon;
-	background-color: orange; 
-}
-
-#centro{
-    text-align: center; 
-
-}
-
-#menu {
-    display: inline;
-    padding-left: 15px;
-}
-
-li a {
-	font-size: 30px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-decoration: none;
-}
-
 #banner {
 	width: 50%;
 	border: 15px groove orange ;
