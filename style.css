@@ -1,4 +1,26 @@
 
+.navegacao {
+	position: absolute;
+	top: 200px;
+	left: 800px;
+	width: 500px;
+
+}
+
+nav li {
+	margin: 20px 10px 20px 10px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: maroon;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+
 #banner {
 	width: 50%;
 	border: 15px groove orange ;
@@ -12,6 +34,7 @@
 }
 
 h1 {
+	text-align: center;
 	font-size: 100px;
 	color: maroon;
 }
@@ -35,6 +58,8 @@ h1 {
 	text-align: justify;
 	font-size: 30px;
 	color: maroon;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 
@@ -54,7 +79,7 @@ ul {
 .fotos {
 	width: 28%;
 	border: 15px groove orange;
-	margin: 10px;
+	margin: 15px;
 }
 
 #metade {
