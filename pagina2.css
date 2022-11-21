@@ -25,6 +25,8 @@ nav li {
 	margin: 0 0 0 30px;
 }
 
+
+
 nav a {
 	text-transform: uppercase;
 	color: #000000;
@@ -33,6 +35,9 @@ nav a {
 	text-decoration: none;
 }
 
+nav a:hover {
+color: brown;
+}
 .grandao {
 	color: #bbbb00;
 	font-size: 100px;
@@ -44,6 +49,7 @@ nav a {
 	text-align: justify;
 	padding-left: 15px;
 	padding-right: 15px;
+	margin: 5px;
 }
 
 #subtitulo {
@@ -56,4 +62,53 @@ nav a {
 	color: #bbbb00;
 	font-size: 40px;
 	margin-left: 50px;
+}
+
+.principal {
+	width: 1200px;
+	margin: 10px auto;
+	padding: 30px 0 0 20px;
+}
+
+.principal  h2 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #bbbb00;
+
+}
+
+.principal li {
+	display: inline-block;
+	width: 45%;
+	text-align: center;
+	vertical-align: top;
+	border: 10px solid #bbbb00;
+	padding: 10px;
+	height: 700px;
+}
+
+.principal li:hover {
+border-color: red;
+}
+
+.principal li:active {
+border-color: orange;
+}
+
+.principal p {
+	text-align: justify;
+	font-size: 26px;
+}
+
+
+footer {
+    text-align: center;
+    background: url("ilusao01.jpg");
+    padding: 250px 0;
+}
+
+.copyright {
+    color: #FFFF00;
+    font-size: 30px;
+    margin: 100px 0 0;
 }
